@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 ## About Me
-- 🔭 I’m currently working on [Your Project or Job]
-- 🌱 I’m currently learning [Technology or Skill]
-- 👯 I’m looking to collaborate on [Project or Topic]
-- 🤔 I’m looking for help with [Challenge or Project]
-- 💬 Ask me about [Topic or Skill]
-- 📫 How to reach me: [Your Email or Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🔭 I’m currently working as a freelance developer on Fiverr and UpWork
+- 🌱 I’m currently learning TensorFlow.js and Docker
+- 👯 I’m looking to collaborate on fintech products
+- 🤔 I’m looking for help with ML and LLM
+- 💬 Ask me about UI/UX Development
+- 📫 How to reach me: contact@codesfromshad.com
+- 😄 Pronouns: he, him, and his
+- ⚡ Fun fact: I really like the color purple 💜
 
 ## My GitHub Stats
 
