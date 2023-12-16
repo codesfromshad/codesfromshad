@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-## Connect with me:
+## About Me
+- 🔭 I’m currently working on [Your Project or Job]
+- 🌱 I’m currently learning [Technology or Skill]
+- 👯 I’m looking to collaborate on [Project or Topic]
+- 🤔 I’m looking for help with [Challenge or Project]
+- 💬 Ask me about [Topic or Skill]
+- 📫 How to reach me: [Your Email or Contact Information]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [Interesting Fact About You]
 
-<a href="https://linkedin.com/in/linkwithshad">
-    <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="fill: currentColor;" />
-</a>
-<a href="https://twitter.com/tweetsfromshad">
-    <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="fill: currentColor;" />
-</a>
-<a href="https://www.shadmanrchowdhury.com">
-    <img align="left" alt="Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="fill: currentColor;" />
-</a>
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 <!--
 **codesfromshad/codesfromshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
