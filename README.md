@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Connect with me:
+
+[<img align="left" alt="YourLinkedInURL" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
+[<img align="left" alt="YourTwitterURL" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][twitter]
+[<img align="left" alt="YourBlogOrWebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+
+[linkedin]: https://linkedin.com/in/linkwithshad
+[twitter]: https://twitter.com/tweetsfromshad
+[blog]: https://www.shadmanrchowdhury.com
 <!--
 **codesfromshad/codesfromshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
