@@ -14,6 +14,9 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **codesfromshad/codesfromshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
