@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
@@ -58,16 +58,21 @@ Sunday                   32 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               8 mins              █████████████████████████   100.00 % 
+TypeScript               46 mins             ███████████████░░░░░░░░░░   60.42 % 
+JavaScript               29 mins             █████████░░░░░░░░░░░░░░░░   37.85 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-concept                  8 mins              █████████████████████████   100.00 % 
+finstation               47 mins             ███████████████░░░░░░░░░░   61.83 % 
+concept                  29 mins             ██████████░░░░░░░░░░░░░░░   38.17 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2024 18:34:00 UTC
+ Last Updated on 06/01/2024 03:39:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
