@@ -15,9 +15,9 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,19 +58,19 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               16 hrs 27 mins      █████████████████████████   99.51 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               22 hrs 36 mins      █████████████████████████   98.41 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-finstation               16 hrs 25 mins      █████████████████████████   99.28 % 
-teachimee-react-ts-web-ap7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+finstation               22 hrs 43 mins      █████████████████████████   98.97 % 
+teachimee-react-ts-web-ap14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 💻 Operating System: 
-Windows                  16 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,7 +88,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2024 18:33:58 UTC
+ Last Updated on 24/02/2024 18:33:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
