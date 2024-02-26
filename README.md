@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -58,20 +58,20 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               25 hrs 9 mins       ████████████████████████░   94.03 % 
-JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+TypeScript               30 hrs 9 mins       ████████████████████████░   94.54 % 
+JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-finstation               25 hrs 24 mins      ████████████████████████░   94.95 % 
-react-phone-number-input 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-teachimee-react-ts-web-ap7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+finstation               30 hrs 24 mins      ████████████████████████░   95.34 % 
+react-phone-number-input 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+teachimee-react-ts-web-ap7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Windows                  26 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,7 +89,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2024 18:33:27 UTC
+ Last Updated on 26/02/2024 18:33:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
