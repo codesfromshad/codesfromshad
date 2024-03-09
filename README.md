@@ -15,9 +15,9 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,19 +58,19 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               10 hrs 16 mins      █████████████████████████   98.66 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+TypeScript               5 hrs 49 mins       █████████████████████████   99.33 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  5 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-finstation               10 hrs 12 mins      █████████████████████████   98.07 % 
-react-hook-form-with-next6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-upgrade                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+finstation               5 hrs 39 mins       ████████████████████████░   96.57 % 
+react-hook-form-with-next6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+upgrade                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-Windows                  10 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  5 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,7 +88,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2024 18:33:12 UTC
+ Last Updated on 09/03/2024 18:33:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
