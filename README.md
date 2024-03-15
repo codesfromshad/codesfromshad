@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -56,18 +56,19 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               11 hrs 15 mins      █████████████████████████   99.85 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TypeScript               19 hrs 33 mins      █████████████████████████   99.45 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-finstation               11 hrs 12 mins      █████████████████████████   99.52 % 
-react-hook-form-with-next3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+finstation               19 hrs 35 mins      █████████████████████████   99.69 % 
+react-hook-form-with-next3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  11 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +86,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2024 18:33:19 UTC
+ Last Updated on 15/03/2024 18:33:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
