@@ -15,13 +15,15 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 22.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,18 +58,19 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               52 hrs 18 mins      ████████████████████████░   97.81 % 
-JavaScript               52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+TypeScript               43 hrs 44 mins      ████████████████████████░   97.25 % 
+Rust                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  53 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  44 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-finstation               53 hrs 28 mins      █████████████████████████   100.00 % 
+finstation               44 hrs 2 mins       ████████████████████████░   97.89 % 
+rustlings                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Windows                  53 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  44 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +88,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2024 18:34:41 UTC
+ Last Updated on 27/04/2024 18:33:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
