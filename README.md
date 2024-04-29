@@ -15,13 +15,15 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 22.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,19 +58,19 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               35 hrs 11 mins      ███████████████████████░░   92.55 % 
-Rust                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+TypeScript               29 hrs 30 mins      ███████████████████████░░   92.01 % 
+Rust                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  32 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-finstation               35 hrs 28 mins      ███████████████████████░░   93.26 % 
-rustlings                2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+finstation               29 hrs 30 mins      ███████████████████████░░   92.01 % 
+rustlings                2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 💻 Operating System: 
-Windows                  38 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  32 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +88,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2024 18:33:34 UTC
+ Last Updated on 29/04/2024 18:34:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
