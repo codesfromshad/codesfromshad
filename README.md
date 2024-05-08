@@ -15,13 +15,15 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 22.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,18 +58,18 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               3 hrs 49 mins       ████████████████████████░   96.91 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+TypeScript               6 hrs 5 mins        ████████████████████████░   97.13 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-finstation               3 hrs 49 mins       ████████████████████████░   96.91 % 
-testing                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+finstation               6 hrs 5 mins        ████████████████████████░   97.13 % 
+testing                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +87,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2024 18:35:47 UTC
+ Last Updated on 08/05/2024 18:35:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
