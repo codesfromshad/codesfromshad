@@ -15,13 +15,15 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 22.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,21 +58,21 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               18 hrs 46 mins      ███████████████████████░░   93.30 % 
-JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               17 hrs 48 mins      ███████████████████████░░   93.25 % 
+JavaScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  19 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-finstation               19 hrs 9 mins       ████████████████████████░   95.23 % 
-testing                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+finstation               18 hrs 12 mins      ████████████████████████░   95.28 % 
+testing                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 💻 Operating System: 
-Windows                  20 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  19 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2024 18:35:40 UTC
+ Last Updated on 15/05/2024 18:35:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
