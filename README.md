@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,19 +56,19 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               13 hrs 50 mins      █████████████████████████   99.11 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+TypeScript               12 hrs 22 mins      █████████████████████████   99.16 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-_finstation              13 hrs 56 mins      █████████████████████████   99.84 % 
-_neo-finstation          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+_finstation              12 hrs 26 mins      █████████████████████████   99.69 % 
+_neo-finstation          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  13 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +86,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 18:35:15 UTC
+ Last Updated on 24/06/2024 18:37:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
