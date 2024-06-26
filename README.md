@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,19 +56,20 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               9 hrs 6 mins        █████████████████████████   98.87 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TypeScript               10 hrs 57 mins      █████████████████████████   98.59 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-_finstation              9 hrs 10 mins       █████████████████████████   99.67 % 
-_neo-finstation          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+_finstation              11 hrs 2 mins       █████████████████████████   99.25 % 
+testing                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+_neo-finstation          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Windows                  9 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +87,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2024 18:38:33 UTC
+ Last Updated on 26/06/2024 18:38:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
