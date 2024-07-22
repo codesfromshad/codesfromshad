@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-736%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -56,17 +56,16 @@ Sunday                   28 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               19 mins             █████████████████████████   100.00 % 
+TypeScript               4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-trpc-explorer            14 mins             ███████████████████░░░░░░   77.27 % 
-react-dnd-kit-tailwind-sh4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+react-dnd-kit-tailwind-sh4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +84,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2024 18:39:01 UTC
+ Last Updated on 22/07/2024 18:40:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
