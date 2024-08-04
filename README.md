@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,18 +56,20 @@ Sunday                   28 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    22 mins             ████████████████░░░░░░░░░   62.60 % 
-JSON                     13 mins             █████████░░░░░░░░░░░░░░░░   37.40 % 
+Other                    22 mins             ███████████░░░░░░░░░░░░░░   45.37 % 
+JSON                     13 mins             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+YAML                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-personalis-automata      33 mins             ████████████████████████░   96.00 % 
-project-pegasus-lunarleap1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+personalis-automata      35 mins             ██████████████████░░░░░░░   72.15 % 
+project-pegasus-lunarleap13 mins             ███████░░░░░░░░░░░░░░░░░░   27.85 % 
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +88,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2024 18:40:00 UTC
+ Last Updated on 04/08/2024 18:37:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
