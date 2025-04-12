@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
@@ -58,20 +58,19 @@ Sunday                   8 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               10 hrs 7 mins       ████████████████████████░   97.87 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               3 hrs 29 mins       █████████████████████████   98.55 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-pegasus-lunarleap10 hrs 20 mins      █████████████████████████   100.00 % 
+project-pegasus-lunarleap3 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +89,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2025 18:50:06 UTC
+ Last Updated on 12/04/2025 18:46:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
