@@ -15,15 +15,15 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 22.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,17 +58,17 @@ Sunday                   8 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               1 hr 33 mins        █████████████████████████   99.75 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+TypeScript               1 hr 58 mins        █████████████████████████   99.80 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-pegasus-lunarleap1 hr 34 mins        █████████████████████████   100.00 % 
+project-pegasus-lunarleap1 hr 58 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,7 +87,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 18:46:48 UTC
+ Last Updated on 14/04/2025 18:50:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
