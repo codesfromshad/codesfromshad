@@ -15,6 +15,8 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2018%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -29,6 +31,45 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+🌆 Daytime                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+🌃 Evening                39 commits          ██████████░░░░░░░░░░░░░░░   38.24 % 
+🌙 Night                  34 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   20 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Wednesday                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Friday                   23 commits          ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Saturday                 23 commits          ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Sunday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -45,7 +86,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 18:51:55 UTC
+ Last Updated on 22/05/2025 18:52:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
