@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,16 +56,22 @@ Sunday                   8 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               23 mins             ███████████████░░░░░░░░░░   59.51 % 
+HTML                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+TSConfig                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+trpc-explorer-neo        29 mins             ███████████████████░░░░░░   75.64 % 
+trpc-explorer            5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+protocol-ts              4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 18:51:16 UTC
+ Last Updated on 29/05/2025 18:52:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
