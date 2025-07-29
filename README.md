@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,17 +58,22 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Text                     5 mins              ███████████████████░░░░░░   74.17 % 
-Bash                     1 min               ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+TypeScript               44 mins             ████████████░░░░░░░░░░░░░   49.71 % 
+Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+PowerShell               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-autotrader               7 mins              █████████████████████████   100.00 % 
+cfs-autotrader           1 hr 9 mins         ████████████████████░░░░░   78.14 % 
+cfs-autotrader-data-downl11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+autotrader               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2025 19:20:06 UTC
+ Last Updated on 29/07/2025 19:20:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
