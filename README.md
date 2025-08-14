@@ -58,18 +58,16 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Bash                     9 mins              ██████████████░░░░░░░░░░░   56.34 % 
-JavaScript               6 mins              ███████████░░░░░░░░░░░░░░   42.49 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TradingView-API          16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,7 +87,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2025 19:17:12 UTC
+ Last Updated on 14/08/2025 19:19:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
