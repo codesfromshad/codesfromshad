@@ -58,16 +58,16 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+binance-public-data      0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,7 +87,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2025 19:13:20 UTC
+ Last Updated on 22/08/2025 19:12:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
