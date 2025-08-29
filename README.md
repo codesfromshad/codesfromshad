@@ -15,13 +15,15 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 19.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 32 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -56,16 +58,17 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Bash                     0 secs              █████████████████████████   100.00 % 
+TypeScript               11 mins             ████████████████░░░░░░░░░   63.94 % 
+Other                    6 mins              █████████░░░░░░░░░░░░░░░░   36.06 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-binance-public-data      0 secs              █████████████████████████   100.00 % 
+polymarket-copy-trading-b18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 19:10:20 UTC
+ Last Updated on 29/08/2025 19:07:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
