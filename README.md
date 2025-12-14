@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-962%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,17 +58,22 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               3 mins              ███████████████░░░░░░░░░░   58.33 % 
-Other                    2 mins              ██████████░░░░░░░░░░░░░░░   41.67 % 
+TypeScript               6 hrs 4 mins        ████████████████████████░   96.43 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  6 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-polybot                  6 mins              █████████████████████████   100.00 % 
+polybot                  4 hrs 46 mins       ███████████████████░░░░░░   75.64 % 
+polymarket-ws-demo       50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+polyclone                42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 19:14:41 UTC
+ Last Updated on 14/12/2025 19:13:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
