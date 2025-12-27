@@ -15,9 +15,9 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,16 +58,20 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+TypeScript               4 hrs 46 mins       ████████████████████████░   96.42 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  4 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-axelbot                  0 secs              █████████████████████████   100.00 % 
+axelbot                  4 hrs 57 mins       █████████████████████████   99.85 % 
+polymarket-ws-demo       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,7 +91,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2025 19:16:38 UTC
+ Last Updated on 27/12/2025 19:15:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
