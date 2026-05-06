@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,18 +58,17 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Bash                     14 mins             ██████████████░░░░░░░░░░░   57.20 % 
-Text                     9 mins              █████████░░░░░░░░░░░░░░░░   35.15 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Text                     9 mins              ██████████████████░░░░░░░   73.07 % 
+Bash                     3 mins              ███████░░░░░░░░░░░░░░░░░░   26.93 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-instagram-unfollow       25 mins             █████████████████████████   100.00 % 
+instagram-unfollow       12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2026 20:18:27 UTC
+ Last Updated on 06/05/2026 20:36:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
