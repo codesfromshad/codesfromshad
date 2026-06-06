@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,18 +58,21 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-HTML                     23 mins             █████████████████████░░░░   82.09 % 
-MDX                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+HTML                     23 mins             ████████████████████░░░░░   80.36 % 
+MDX                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          23 mins             █████████████████████░░░░   82.09 % 
-compass-ts               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Unknown Project          23 mins             ████████████████████░░░░░   80.36 % 
+compass-ts               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+compounding              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,7 +92,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 19:30:12 UTC
+ Last Updated on 06/06/2026 19:16:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
