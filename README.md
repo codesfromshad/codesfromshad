@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-I edit text files and push bits through the network stack.
+I edit text documents and push bits through the network stack.
 
 ## My GitHub Stats
 
