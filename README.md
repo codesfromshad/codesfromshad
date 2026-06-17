@@ -8,15 +8,15 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C111%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 20.2 kB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2026
+> 🏆 33 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,23 +51,24 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               2 hrs 9 mins        ██████████████████████░░░   87.21 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+TypeScript               2 hrs 55 mins       █████████████████████░░░░   84.56 % 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spotlight-ts             1 hr 30 mins        ███████████████░░░░░░░░░░   60.83 % 
-shadmanrchowdhurys-person31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-binance                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-personal-finances        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+spotlight-ts             1 hr 30 mins        ███████████░░░░░░░░░░░░░░   43.57 % 
+personal-finances        54 mins             ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+shadmanrchowdhurys-person47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+binance                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+db                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +87,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2026 20:00:06 UTC
+ Last Updated on 17/06/2026 19:32:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
