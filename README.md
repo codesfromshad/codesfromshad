@@ -51,23 +51,23 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               38 hrs 37 mins      ███████████████████████░░   90.09 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-CSS                      47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Markdown                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Git Config               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+TypeScript               37 hrs 8 mins       ███████████████████████░░   90.18 % 
+JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+CSS                      47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Markdown                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Git Config               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-VS Code                  42 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  41 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kompass-app              39 hrs 56 mins      ███████████████████████░░   93.17 % 
-ui                       2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-compounding              20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+kompass-app              38 hrs 14 mins      ███████████████████████░░   92.88 % 
+ui                       2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+compounding              20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 my-better-t-app          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  42 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +86,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2026 19:26:46 UTC
+ Last Updated on 02/07/2026 19:15:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
