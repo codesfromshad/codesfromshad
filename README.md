@@ -51,23 +51,23 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               18 hrs 10 mins      █████████████████████░░░░   84.64 % 
-JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Git Config               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript               8 hrs 49 mins       ██████████████████░░░░░░░   72.79 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Git Config               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kompass-app              18 hrs 27 mins      █████████████████████░░░░   85.96 % 
-ui                       2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Unknown Project          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-zahraan's-ess            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+kompass-app              9 hrs 5 mins        ███████████████████░░░░░░   75.11 % 
+ui                       2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+zahraan's-ess            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  21 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +86,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2026 20:06:49 UTC
+ Last Updated on 06/07/2026 20:41:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
