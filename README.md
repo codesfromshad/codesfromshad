@@ -51,32 +51,28 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               8 hrs 49 mins       ██████████████████░░░░░░░   72.79 % 
-JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Git Config               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+TypeScript               1 hr 6 mins         ██████████████████░░░░░░░   71.47 % 
+JavaScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kompass-app              9 hrs 5 mins        ███████████████████░░░░░░   75.11 % 
-ui                       2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-zahraan's-ess            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+kompass-app              1 hr 6 mins         ██████████████████░░░░░░░   71.47 % 
+Unknown Project          22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+zahraan's-ess            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 💻 Operating System: 
-Windows                  12 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            █████████████████████░░░░   83.33 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               20 repos            ██████████████████████░░░   86.96 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
@@ -86,7 +82,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 20:41:54 UTC
+ Last Updated on 07/07/2026 20:41:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
