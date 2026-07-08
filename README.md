@@ -16,11 +16,11 @@ I edit text documents and push bits through the network stack.
 
 > 📦 20.3 kB Used in GitHub's Storage 
  > 
-> 🏆 36 Contributions in the Year 2026
+> 🏆 38 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -51,28 +51,26 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               1 hr 6 mins         ██████████████████░░░░░░░   71.47 % 
-JavaScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+JavaScript               22 mins             █████████████████████░░░░   85.36 % 
+Python                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
+VS Code                  26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kompass-app              1 hr 6 mins         ██████████████████░░░░░░░   71.47 % 
-Unknown Project          22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-zahraan's-ess            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Unknown Project          22 mins             █████████████████████░░░░   85.36 % 
+zahraan's-ess            3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ██████████████████████░░░   86.96 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               19 repos            ██████████████████████░░░   86.36 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -82,7 +80,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 20:41:53 UTC
+ Last Updated on 08/07/2026 20:05:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
