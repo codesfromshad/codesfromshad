@@ -8,7 +8,7 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C198%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C198%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -16,7 +16,7 @@ I edit text documents and push bits through the network stack.
 
 > 📦 20.6 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2026
+> 🏆 41 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -27,21 +27,21 @@ I edit text documents and push bits through the network stack.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-🌆 Daytime                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-🌃 Evening                40 commits          ████████░░░░░░░░░░░░░░░░░   31.50 % 
-🌙 Night                  54 commits          ███████████░░░░░░░░░░░░░░   42.52 % 
+🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+🌆 Daytime                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+🌃 Evening                40 commits          ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌙 Night                  55 commits          ███████████░░░░░░░░░░░░░░   42.97 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Tuesday                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Thursday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Friday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Saturday                 18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Sunday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Monday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Tuesday                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Saturday                 18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Sunday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 ```
 
 
@@ -51,23 +51,23 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               15 hrs 50 mins      ████████████████████████░   94.48 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Vue                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               11 hrs 29 mins      █████████████████████████   98.67 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Vue                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Svelte                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kompass-app              15 hrs 4 mins       ██████████████████████░░░   89.91 % 
-number-flow              1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-react-18                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-src                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+kompass-app              11 hrs 26 mins      █████████████████████████   98.23 % 
+number-flow              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+react-18                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+src                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  16 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +85,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2026 19:47:03 UTC
+ Last Updated on 16/07/2026 19:43:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
