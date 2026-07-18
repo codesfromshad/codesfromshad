@@ -51,18 +51,18 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               5 hrs 53 mins       █████████████████████████   98.33 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+TypeScript               5 hrs 19 mins       █████████████████████████   98.16 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kompass-app              5 hrs 59 mins       █████████████████████████   100.00 % 
+kompass-app              5 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,7 +80,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 19:41:25 UTC
+ Last Updated on 18/07/2026 19:43:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
