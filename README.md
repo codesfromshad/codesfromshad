@@ -8,6 +8,8 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C199%20hrs%2033%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -22,6 +24,46 @@ I edit text documents and push bits through the network stack.
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+🌆 Daytime                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+🌃 Evening                40 commits          ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌙 Night                  55 commits          ███████████░░░░░░░░░░░░░░   42.97 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Tuesday                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Saturday                 18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Sunday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+TypeScript               34 mins             █████████████████████████   99.31 % 
+iCalendar                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+
+🔥 Editors: 
+VS Code                  34 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+kompass-app              34 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  34 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -37,7 +79,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:56:59 UTC
+ Last Updated on 25/07/2026 19:45:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
