@@ -51,17 +51,16 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               34 mins             █████████████████████████   99.31 % 
-iCalendar                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+iCalendar                0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kompass-app              34 mins             █████████████████████████   100.00 % 
+kompass-app              0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,7 +78,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:45:30 UTC
+ Last Updated on 26/07/2026 19:45:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
