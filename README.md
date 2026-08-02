@@ -8,7 +8,7 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C184%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C186%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2051%20mins-blue?style=flat)
 
@@ -53,16 +53,24 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+TypeScript               1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   36.47 % 
+JSON                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+Docker                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-test                     0 secs              █████████████████████████   100.00 % 
+ecommerce_site_starter   1 hr 22 mins        ███████████░░░░░░░░░░░░░░   43.42 % 
+my-medusa-store          1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   36.44 % 
+payload-ecommerce-demo   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+meridian                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+cloudflare-payload       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:45:49 UTC
+ Last Updated on 02/08/2026 19:45:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
