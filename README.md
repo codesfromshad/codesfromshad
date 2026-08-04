@@ -8,7 +8,7 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C186%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C189%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2051%20mins-blue?style=flat)
 
@@ -53,24 +53,24 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   36.47 % 
-JSON                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Docker                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+TypeScript               1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   30.09 % 
+JSON                     1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Bash                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Docker                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ecommerce_site_starter   1 hr 22 mins        ███████████░░░░░░░░░░░░░░   43.42 % 
-my-medusa-store          1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   36.44 % 
-payload-ecommerce-demo   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-meridian                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-cloudflare-payload       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+ecommerce_site_starter   2 hrs 53 mins       █████████████░░░░░░░░░░░░   52.06 % 
+my-medusa-store          1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+payload-ecommerce-demo   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+meridian                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+test                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 💻 Operating System: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:45:33 UTC
+ Last Updated on 04/08/2026 20:10:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
