@@ -53,24 +53,24 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-JSON                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Bash                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+TypeScript               17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+CSV                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ecommerce_site_starter   1 hr 31 mins        ████████████████░░░░░░░░░   63.42 % 
-test                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-meridian                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-my-medusa-store          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-axelbot-neo              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+ecommerce_site_starter   25 mins             ████████░░░░░░░░░░░░░░░░░   33.69 % 
+test                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+meridian                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+axelbot-neo              9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+my-medusa-store          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 
 💻 Operating System: 
-Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:12:59 UTC
+ Last Updated on 10/08/2026 19:32:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
