@@ -8,7 +8,7 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C189%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2051%20mins-blue?style=flat)
 
@@ -53,16 +53,20 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     23 mins             █████████████░░░░░░░░░░░░   53.96 % 
+TypeScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+brisket-and-butter       43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:51:34 UTC
+ Last Updated on 02/10/2026 22:28:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
