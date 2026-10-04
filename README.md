@@ -8,9 +8,9 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -53,26 +53,45 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     23 mins             █████████████░░░░░░░░░░░░   53.34 % 
-TypeScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+JSON                     41 mins             ███████████░░░░░░░░░░░░░░   42.09 % 
+JavaScript               29 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+TypeScript               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 21 mins        █████████████████████░░░░   82.62 % 
+Copilot CLI              17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
 
 🐱‍💻 Projects: 
-brisket-and-butter       44 mins             █████████████████████████   100.00 % 
+brisket-and-butter       44 mins             ███████████░░░░░░░░░░░░░░   45.51 % 
+liqscrape                35 mins             █████████░░░░░░░░░░░░░░░░   35.58 % 
+dse-data-fetcher-v0.0.2b 18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 29 mins (29.45%)
+
+✍️ 36 lines written by AI, 2,569 lines written by hand (1.38% AI-written)
+
+🔤 20,043 Input Tokens, 5,303 Output Tokens
+
+💵 $1.03 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Code                     36 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 1.38% of written lines came from AI
+📝 Concise Prompter — average 29 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 98.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +109,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:40:24 UTC
+ Last Updated on 04/10/2026 21:48:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
