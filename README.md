@@ -8,7 +8,7 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C192%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2020%20mins-blue?style=flat)
 
@@ -53,31 +53,33 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     41 mins             ███████████░░░░░░░░░░░░░░   42.09 % 
-JavaScript               29 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-TypeScript               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+JavaScript               1 hr 17 mins        ████████████░░░░░░░░░░░░░   46.65 % 
+JSON                     1 hr                █████████░░░░░░░░░░░░░░░░   36.44 % 
+TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████░░░░   82.62 % 
-Copilot CLI              17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+VS Code                  2 hrs 28 mins       ██████████████████████░░░   89.64 % 
+Copilot CLI              17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 
 🐱‍💻 Projects: 
-brisket-and-butter       44 mins             ███████████░░░░░░░░░░░░░░   45.51 % 
-liqscrape                35 mins             █████████░░░░░░░░░░░░░░░░   35.58 % 
-dse-data-fetcher-v0.0.2b 18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+brisket-and-butter       44 mins             ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+dse-data-fetcher         43 mins             ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+liqscrape                35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+dse-data-fetcher-v0.0.2b 31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+drift                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (29.45%)
+⏱ AI Coding Time: 29 mins (17.55%)
 
-✍️ 36 lines written by AI, 2,569 lines written by hand (1.38% AI-written)
+✍️ 36 lines written by AI, 2,601 lines written by hand (1.37% AI-written)
 
 🔤 20,043 Input Tokens, 5,303 Output Tokens
 
@@ -88,10 +90,10 @@ Windows                  1 hr 38 mins        ███████████�
 Code                     36 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.38% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 1.37% of written lines came from AI
 📝 Concise Prompter — average 29 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 98.78% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +111,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:48:55 UTC
+ Last Updated on 06/10/2026 00:16:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
