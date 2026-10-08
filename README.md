@@ -8,7 +8,7 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C192%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C192%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2020%20mins-blue?style=flat)
 
@@ -53,33 +53,33 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   41.65 % 
-JSON                     1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   33.01 % 
-TypeScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+JavaScript               1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   41.21 % 
+JSON                     1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   32.66 % 
+TypeScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       ███████████████████████░░   90.75 % 
-Copilot CLI              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+VS Code                  2 hrs 50 mins       ███████████████████████░░   90.85 % 
+Copilot CLI              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 🐱‍💻 Projects: 
-brisket-and-butter       44 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-dse-data-fetcher         43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-liqscrape                35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-dse-data-fetcher-v0.0.2b 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-drift                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+brisket-and-butter       44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+dse-data-fetcher         43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+liqscrape                37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+dse-data-fetcher-v0.0.2b 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+drift                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (15.67%)
+⏱ AI Coding Time: 29 mins (15.5%)
 
-✍️ 36 lines written by AI, 2,649 lines written by hand (1.34% AI-written)
+✍️ 36 lines written by AI, 2,650 lines written by hand (1.34% AI-written)
 
 🔤 20,043 Input Tokens, 5,303 Output Tokens
 
@@ -111,7 +111,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:16:16 UTC
+ Last Updated on 08/10/2026 23:31:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
