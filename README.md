@@ -16,9 +16,9 @@ I edit text documents and push bits through the network stack.
 
 **🐱 My GitHub Data** 
 
-> 📦 20.7 kB Used in GitHub's Storage 
+> 📦 21.0 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2026
+> 🏆 52 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -29,21 +29,21 @@ I edit text documents and push bits through the network stack.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-🌆 Daytime                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-🌃 Evening                40 commits          ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-🌙 Night                  61 commits          ███████████░░░░░░░░░░░░░░   45.52 % 
+🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+🌆 Daytime                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+🌃 Evening                40 commits          ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+🌙 Night                  62 commits          ███████████░░░░░░░░░░░░░░   45.93 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Tuesday                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Saturday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Monday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Tuesday                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Saturday                 25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 ```
 
 
@@ -53,33 +53,33 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   41.21 % 
-JSON                     1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   32.66 % 
-TypeScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+JavaScript               1 hr 17 mins        █████████████░░░░░░░░░░░░   53.85 % 
+JSON                     37 mins             ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+TOML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       ███████████████████████░░   90.85 % 
-Copilot CLI              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+VS Code                  2 hrs 6 mins        ██████████████████████░░░   88.05 % 
+Copilot CLI              17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 
 🐱‍💻 Projects: 
-brisket-and-butter       44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-dse-data-fetcher         43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-liqscrape                37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-dse-data-fetcher-v0.0.2b 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-drift                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+dse-data-fetcher         43 mins             ████████░░░░░░░░░░░░░░░░░   30.52 % 
+liqscrape                37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+dse-data-fetcher-v0.0.2b 31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+drift                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+liqpush                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 💻 Operating System: 
-Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (15.5%)
+⏱ AI Coding Time: 29 mins (20.26%)
 
-✍️ 36 lines written by AI, 2,650 lines written by hand (1.34% AI-written)
+✍️ 36 lines written by AI, 579 lines written by hand (5.85% AI-written)
 
 🔤 20,043 Input Tokens, 5,303 Output Tokens
 
@@ -90,10 +90,10 @@ Windows                  3 hrs 7 mins        ███████████�
 Code                     36 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.34% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 5.85% of written lines came from AI
 📝 Concise Prompter — average 29 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 98.83% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +111,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 19:48:57 UTC
+ Last Updated on 10/10/2026 02:57:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
