@@ -12,7 +12,7 @@ I edit text documents and push bits through the network stack.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -53,47 +53,30 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               1 hr 18 mins        ██████████████░░░░░░░░░░░   54.44 % 
-JSON                     37 mins             ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-TOML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+JavaScript               48 mins             █████████████░░░░░░░░░░░░   53.39 % 
+JSON                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+TOML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        ██████████████████████░░░   88.04 % 
-Copilot CLI              17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dse-data-fetcher         43 mins             ████████░░░░░░░░░░░░░░░░░   30.55 % 
-liqscrape                37 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-dse-data-fetcher-v0.0.2b 31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-drift                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-liqpush                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+dse-data-fetcher         43 mins             ████████████░░░░░░░░░░░░░   47.83 % 
+drift                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+dse-data-fetcher-v0.0.2b 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+liqpush                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+liqscrape                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (20.27%)
-
-✍️ 36 lines written by AI, 88 lines written by hand (29.03% AI-written)
-
-🔤 20,043 Input Tokens, 5,303 Output Tokens
-
-💵 $1.03 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Code                     36 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 29.03% of written lines came from AI
-📝 Concise Prompter — average 29 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 76.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 02:27:03 UTC
+ Last Updated on 12/10/2026 02:51:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
