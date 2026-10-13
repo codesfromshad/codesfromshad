@@ -12,7 +12,7 @@ I edit text documents and push bits through the network stack.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -53,24 +53,22 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               48 mins             █████████████░░░░░░░░░░░░   53.39 % 
-JSON                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-TOML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+TOML                     10 mins             ███████████░░░░░░░░░░░░░░   43.42 % 
+Other                    7 mins              ████████░░░░░░░░░░░░░░░░░   31.19 % 
+TypeScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dse-data-fetcher         43 mins             ████████████░░░░░░░░░░░░░   47.83 % 
-drift                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-dse-data-fetcher-v0.0.2b 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-liqpush                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-liqscrape                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+liqpush                  11 mins             ███████████░░░░░░░░░░░░░░   45.87 % 
+drift                    8 mins              █████████░░░░░░░░░░░░░░░░   34.86 % 
+liqscrape                4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +92,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 02:51:33 UTC
+ Last Updated on 13/10/2026 04:07:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
