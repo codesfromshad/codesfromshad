@@ -8,17 +8,17 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C192%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C192%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 21.0 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2026
+> 🏆 53 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -29,21 +29,21 @@ I edit text documents and push bits through the network stack.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-🌆 Daytime                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-🌃 Evening                40 commits          ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-🌙 Night                  62 commits          ███████████░░░░░░░░░░░░░░   45.93 % 
+🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+🌆 Daytime                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+🌃 Evening                41 commits          ████████░░░░░░░░░░░░░░░░░   30.15 % 
+🌙 Night                  62 commits          ███████████░░░░░░░░░░░░░░   45.59 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Tuesday                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Wednesday                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-Saturday                 25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Tuesday                  22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Wednesday                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Saturday                 25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 ```
 
 
@@ -53,22 +53,22 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TOML                     10 mins             ███████████░░░░░░░░░░░░░░   43.42 % 
-Other                    7 mins              ████████░░░░░░░░░░░░░░░░░   31.19 % 
-TypeScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TypeScript               11 mins             ██████████░░░░░░░░░░░░░░░   41.75 % 
+TOML                     10 mins             ██████████░░░░░░░░░░░░░░░   38.53 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-liqpush                  11 mins             ███████████░░░░░░░░░░░░░░   45.87 % 
-drift                    8 mins              █████████░░░░░░░░░░░░░░░░   34.86 % 
-liqscrape                4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+wiretap                  11 mins             ███████████░░░░░░░░░░░░░░   42.20 % 
+liqpush                  11 mins             ██████████░░░░░░░░░░░░░░░   40.70 % 
+liqscrape                4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +92,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 04:07:44 UTC
+ Last Updated on 14/10/2026 02:21:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
