@@ -16,9 +16,9 @@ I edit text documents and push bits through the network stack.
 
 **🐱 My GitHub Data** 
 
-> 📦 21.1 kB Used in GitHub's Storage 
+> 📦 21.2 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2026
+> 🏆 61 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -29,21 +29,21 @@ I edit text documents and push bits through the network stack.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-🌆 Daytime                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-🌃 Evening                43 commits          ████████░░░░░░░░░░░░░░░░░   31.16 % 
-🌙 Night                  62 commits          ███████████░░░░░░░░░░░░░░   44.93 % 
+🌞 Morning                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+🌆 Daytime                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+🌃 Evening                43 commits          ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+🌙 Night                  62 commits          ███████████░░░░░░░░░░░░░░   42.76 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Tuesday                  22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Saturday                 25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Tuesday                  22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Saturday                 25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 ```
 
 
@@ -53,21 +53,21 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               10 mins             ██████████████████░░░░░░░   71.04 % 
-JSON                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TypeScript               9 mins              ███████████████████░░░░░░   75.44 % 
+JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wiretap                  11 mins             ████████████████████░░░░░   80.82 % 
-liqscrape                2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+wiretap                  11 mins             ███████████████████████░░   93.26 % 
+liqscrape                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+sonar                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 02:02:44 UTC
+ Last Updated on 16/10/2026 01:52:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
