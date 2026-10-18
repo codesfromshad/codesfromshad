@@ -12,7 +12,7 @@ I edit text documents and push bits through the network stack.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -53,18 +53,18 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               18 mins             █████████████████████░░░░   83.67 % 
-JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TypeScript               18 mins             ██████████████████████░░░   86.79 % 
+JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
 VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wiretap                  16 mins             ██████████████████░░░░░░░   73.18 % 
-sonar                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-liqscrape                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+wiretap                  16 mins             ███████████████████░░░░░░   75.90 % 
+sonar                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+liqscrape                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
 Windows                  21 mins             █████████████████████████   100.00 % 
@@ -91,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 01:47:26 UTC
+ Last Updated on 18/10/2026 01:44:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
