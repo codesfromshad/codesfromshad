@@ -53,21 +53,21 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               18 mins             ██████████████████████░░░   86.79 % 
-JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TypeScript               8 mins              ████████████████████████░   94.08 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wiretap                  16 mins             ███████████████████░░░░░░   75.90 % 
-sonar                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-liqscrape                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+sonar                    5 mins              █████████████░░░░░░░░░░░░   53.49 % 
+wiretap                  4 mins              ████████████░░░░░░░░░░░░░   46.06 % 
+liqscrape                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 02:19:35 UTC
+ Last Updated on 21/10/2026 02:12:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
