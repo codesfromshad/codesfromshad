@@ -12,7 +12,7 @@ I edit text documents and push bits through the network stack.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -53,18 +53,17 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               8 mins              ████████████████████████░   94.08 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+TypeScript               8 mins              ████████████████████████░   94.66 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
 VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sonar                    5 mins              █████████████░░░░░░░░░░░░   53.49 % 
-wiretap                  4 mins              ████████████░░░░░░░░░░░░░   46.06 % 
-liqscrape                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+sonar                    5 mins              █████████████░░░░░░░░░░░░   53.20 % 
+wiretap                  4 mins              ████████████░░░░░░░░░░░░░   46.35 % 
+liqscrape                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
 Windows                  9 mins              █████████████████████████   100.00 % 
@@ -91,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 02:07:00 UTC
+ Last Updated on 23/10/2026 02:11:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
