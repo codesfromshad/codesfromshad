@@ -53,20 +53,16 @@ Sunday                   13 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               8 mins              ████████████████████████░   94.66 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sonar                    5 mins              █████████████░░░░░░░░░░░░   53.20 % 
-wiretap                  4 mins              ████████████░░░░░░░░░░░░░   46.35 % 
-liqscrape                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +86,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 02:11:45 UTC
+ Last Updated on 24/10/2026 02:10:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
