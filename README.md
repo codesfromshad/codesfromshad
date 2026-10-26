@@ -8,17 +8,17 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C192%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 21.8 kB Used in GitHub's Storage 
+> 📦 22.1 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2026
+> 🏆 72 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -29,21 +29,21 @@ I edit text documents and push bits through the network stack.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌆 Daytime                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-🌃 Evening                43 commits          ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-🌙 Night                  62 commits          ██████████░░░░░░░░░░░░░░░   41.89 % 
+🌞 Morning                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+🌆 Daytime                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+🌃 Evening                45 commits          ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+🌙 Night                  62 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Tuesday                  22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Saturday                 25 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Sunday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Tuesday                  22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Wednesday                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Saturday                 25 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Sunday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 ```
 
 
@@ -53,16 +53,20 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               11 mins             █████████████░░░░░░░░░░░░   50.10 % 
+Rust                     7 mins              ████████░░░░░░░░░░░░░░░░░   30.29 % 
+TypeScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dse-data-fetcher         22 mins             ███████████████████████░░   92.89 % 
+sonar                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 04:45:16 UTC
+ Last Updated on 26/10/2026 01:58:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
