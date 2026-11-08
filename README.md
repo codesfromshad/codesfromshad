@@ -53,47 +53,45 @@ Sunday                   58 commits          ███████████�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               53 mins             ██████████░░░░░░░░░░░░░░░   39.64 % 
-JSON                     38 mins             ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-SCSS                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+TypeScript               40 mins             ████████████░░░░░░░░░░░░░   48.65 % 
+Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+SCSS                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Git Config               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 
 🔥 Editors: 
-VS Code                  1 hr 58 mins        ██████████████████████░░░   87.97 % 
-Claude Code              16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+VS Code                  1 hr 7 mins         ████████████████████░░░░░   81.03 % 
+Claude Code              15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
 
 🐱‍💻 Projects: 
-ktee                     1 hr 41 mins        ███████████████████░░░░░░   75.30 % 
-citytouch-re             28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-dse-flextp-re            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-dse-data-fetcher         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-shadm                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+ktee                     52 mins             ████████████████░░░░░░░░░   62.27 % 
+citytouch-re             28 mins             █████████░░░░░░░░░░░░░░░░   34.34 % 
+dse-flextp-re            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 💻 Operating System: 
-Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (15.12%)
+⏱ AI Coding Time: 20 mins (23.96%)
 
-✍️ 40 lines written by AI, 205 lines written by hand (16.33% AI-written)
+✍️ 40 lines written by AI, 183 lines written by hand (17.94% AI-written)
 
 🔤 165,354 Input Tokens, 33,965 Output Tokens
 
 💵 $1.90 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
 Opus                     62 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.33% of written lines came from AI
-📝 Concise Prompter — average 229 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 77.21% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 17.94% of written lines came from AI
+📝 Concise Prompter — average 303 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 75.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +109,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2026 03:26:43 UTC
+ Last Updated on 08/11/2026 02:54:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
