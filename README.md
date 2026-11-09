@@ -8,7 +8,7 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C195%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C195%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2040%20mins-blue?style=flat)
 
@@ -53,45 +53,28 @@ Sunday                   58 commits          ███████████�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               40 mins             ████████████░░░░░░░░░░░░░   48.65 % 
-Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-SCSS                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Git Config               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+TypeScript               22 mins             ███████████░░░░░░░░░░░░░░   42.25 % 
+Markdown                 18 mins             ████████░░░░░░░░░░░░░░░░░   33.45 % 
+Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Rust                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         ████████████████████░░░░░   81.03 % 
-Claude Code              15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ktee                     52 mins             ████████████████░░░░░░░░░   62.27 % 
-citytouch-re             28 mins             █████████░░░░░░░░░░░░░░░░   34.34 % 
-dse-flextp-re            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+citytouch-re             28 mins             █████████████░░░░░░░░░░░░   52.74 % 
+ktee                     22 mins             ███████████░░░░░░░░░░░░░░   42.05 % 
+dse-flextp-re            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (23.96%)
-
-✍️ 40 lines written by AI, 183 lines written by hand (17.94% AI-written)
-
-🔤 165,354 Input Tokens, 33,965 Output Tokens
-
-💵 $1.90 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Opus                     62 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.94% of written lines came from AI
-📝 Concise Prompter — average 303 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 75.1% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +92,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2026 02:54:54 UTC
+ Last Updated on 09/11/2026 03:14:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
