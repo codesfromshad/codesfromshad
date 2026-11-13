@@ -53,19 +53,20 @@ Sunday                   58 commits          ███████████�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 14 mins             ███████████████░░░░░░░░░░   58.77 % 
-JSON                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Rust                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Markdown                 14 mins             ████████████████░░░░░░░░░   62.41 % 
+Rust                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+JSON                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ktee                     23 mins             ███████████████████████░░   93.95 % 
-citytouch-re             1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+ktee                     23 mins             █████████████████████████   99.76 % 
+dse-flextp-re            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2026 04:33:18 UTC
+ Last Updated on 13/11/2026 03:47:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
