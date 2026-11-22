@@ -8,7 +8,7 @@ I edit text documents and push bits through the network stack.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesfromshad&show_icons=true&theme=midnight-purple)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2040%20mins-blue?style=flat)
 
@@ -53,20 +53,21 @@ Sunday                   58 commits          ███████████�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Rust                     25 mins             █████████░░░░░░░░░░░░░░░░   35.65 % 
-JSON                     24 mins             █████████░░░░░░░░░░░░░░░░   34.19 % 
-YAML                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+JSON                     31 mins             ██████████░░░░░░░░░░░░░░░   38.78 % 
+Rust                     27 mins             ████████░░░░░░░░░░░░░░░░░   33.48 % 
+YAML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ktee                     1 hr 10 mins        █████████████████████████   100.00 % 
+ktee                     1 hr 20 mins        █████████████████████████   98.22 % 
+liqscrape                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 04:28:46 UTC
+ Last Updated on 22/11/2026 03:42:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
