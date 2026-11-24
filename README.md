@@ -18,7 +18,7 @@ I edit text documents and push bits through the network stack.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2026
+> 🏆 97 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,21 +53,21 @@ Sunday                   58 commits          ███████████�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     31 mins             ██████████████░░░░░░░░░░░   56.02 % 
-YAML                     15 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Rust                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+JSON                     31 mins             ████████████████████░░░░░   79.53 % 
+Rust                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ktee                     55 mins             ████████████████████████░   97.43 % 
-liqscrape                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+ktee                     38 mins             ████████████████████████░   96.32 % 
+liqscrape                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2026 04:17:57 UTC
+ Last Updated on 24/11/2026 07:16:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
