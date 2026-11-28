@@ -53,21 +53,21 @@ Sunday                   58 commits          ███████████�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Rust                     23 mins             █████████░░░░░░░░░░░░░░░░   34.16 % 
-JSON                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-TOML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Rust                     23 mins             █████████░░░░░░░░░░░░░░░░   35.65 % 
+JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+TOML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ktee                     1 hr 6 mins         ████████████████████████░   97.84 % 
-liqscrape                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+ktee                     1 hr 3 mins         ████████████████████████░   97.75 % 
+liqscrape                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/codesfromshad/codesfromshad/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 05:37:52 UTC
+ Last Updated on 28/11/2026 05:10:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
